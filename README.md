@@ -12,7 +12,7 @@ A simple C++ implementation of a Sudoku solver using backtracking.
 
 Make sure you have a C++ compiler like `g++` or `clang++` installed.
 
-```bash
+bash
 clang++ Sudoku.cpp -o Sudoku
 
 ## ▶️ How to Run
