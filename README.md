@@ -16,7 +16,7 @@ Make sure you have a C++ compiler like `g++` or `clang++` installed.
 clang++ Sudoku.cpp -o Sudoku
 
 ## ▶️ How to Run
-```bash
+bash
 ./Sudoku
 You will be prompted to enter the board row by row:
 	•	Use 0 to represent empty cells
