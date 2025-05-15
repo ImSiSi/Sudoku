@@ -12,13 +12,13 @@ This is a Sudoku solver application built with the Qt framework. It provides a u
 ## 🖼 Screenshots
 
 ### 🔹 Initial Interface
-![empty](images/empty_board.png)
+！<img src="images/empty_board.png" width="300" />
 
 ### 🔹 Solved Board
-![solved](images/solved.png)
+！<img src="images/solved.png" width="300" />
 
 ### 🔹 Invalid Input
-![invalid](images/invalid.png)
+！<img src="images/invalid.png" width="300" />
 ## 🛠 Tech Stack
 
 - C++
