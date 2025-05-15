@@ -9,6 +9,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    setWindowTitle("SudokuSolver");
     ui->tableWidget->setItemDelegate(new SudokuDelegate(this));
 
     // 設定 tableWidget 固定大小
